@@ -1,0 +1,18 @@
+{
+  "reference_card": {
+    "w_mm": 85.6,
+    "h_mm": 53.98
+  },
+  "phone_rotated_25deg": {
+    "w_mm": 150.0,
+    "h_mm": 72.0
+  },
+  "postit_rotated_45deg": {
+    "w_mm": 76.0,
+    "h_mm": 76.0
+  },
+  "book_rotated_neg15deg": {
+    "w_mm": 230.0,
+    "h_mm": 150.0
+  }
+}

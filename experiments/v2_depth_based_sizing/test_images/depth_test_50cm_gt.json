@@ -1,0 +1,14 @@
+{
+  "notebook_small": {
+    "w_mm": 110.0,
+    "h_mm": 80.0
+  },
+  "sd_card": {
+    "w_mm": 32.0,
+    "h_mm": 24.0
+  },
+  "eraser_rotated": {
+    "w_mm": 55.0,
+    "h_mm": 22.0
+  }
+}

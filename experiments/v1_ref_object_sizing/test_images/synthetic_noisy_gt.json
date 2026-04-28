@@ -1,0 +1,18 @@
+{
+  "reference_card": {
+    "w_mm": 85.6,
+    "h_mm": 53.98
+  },
+  "usb_stick": {
+    "w_mm": 60.0,
+    "h_mm": 18.0
+  },
+  "eraser": {
+    "w_mm": 55.0,
+    "h_mm": 22.0
+  },
+  "notebook": {
+    "w_mm": 210.0,
+    "h_mm": 148.0
+  }
+}

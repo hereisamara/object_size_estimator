@@ -1,0 +1,22 @@
+{
+  "reference_card": {
+    "w_mm": 85.6,
+    "h_mm": 53.98
+  },
+  "phone_shape": {
+    "w_mm": 150.0,
+    "h_mm": 72.0
+  },
+  "postit_note": {
+    "w_mm": 76.0,
+    "h_mm": 76.0
+  },
+  "book_shape": {
+    "w_mm": 230.0,
+    "h_mm": 150.0
+  },
+  "sd_card": {
+    "w_mm": 32.0,
+    "h_mm": 24.0
+  }
+}

@@ -1,0 +1,15 @@
+# Default reference objects
+credit_card:
+  width_mm: 85.6
+  height_mm: 53.98
+  description: "Standard ID-1 credit card"
+  
+quarter:
+  width_mm: 24.26
+  height_mm: 24.26
+  description: "US Quarter coin diameter"
+
+a4_paper:
+  width_mm: 297.0
+  height_mm: 210.0
+  description: "A4 paper landscape"

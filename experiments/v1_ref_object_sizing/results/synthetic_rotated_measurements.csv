@@ -1,0 +1,4 @@
+label,width_mm,height_mm,width_px,height_px,is_reference
+Object_1,106.3,75.2,531.5,376.2,False
+REFERENCE,85.6,53.8,428.0,269.0,True
+Object_3,276.5,230.2,1151.2,1382.4,False
