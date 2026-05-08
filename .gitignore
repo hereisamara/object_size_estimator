@@ -1,0 +1,15 @@
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated debug outputs
+# results/debug_v2/
+# results/debug_v2_1/
+
+# Generated calibration helpers and previews
+# experiments/v2_depth_based_sizing/ql_preview/
+# experiments/v2_depth_based_sizing/checkerboard images/rendered/
+# experiments/v2_depth_based_sizing/calibration/debug_corners/

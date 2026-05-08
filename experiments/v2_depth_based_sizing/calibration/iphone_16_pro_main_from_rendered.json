@@ -1,0 +1,80 @@
+{
+  "pattern_cols": 9,
+  "pattern_rows": 7,
+  "square_size_mm": 20.0,
+  "image_size": [
+    2250,
+    3000
+  ],
+  "camera_matrix": [
+    [
+      2158.1444866044344,
+      0.0,
+      1176.9531429138704
+    ],
+    [
+      0.0,
+      2161.6728053801867,
+      1513.5427553320083
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    -0.11116584825571406,
+    1.5143900547633489,
+    0.0004226589275334243,
+    0.008060863192756654,
+    -4.4059407297832145
+  ],
+  "rms_reprojection_error": 2.117861067538779,
+  "mean_reprojection_error_px": 0.2561285299900179,
+  "views_used": 8,
+  "images_used": [
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6851.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6852.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6853.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6854.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6855.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6856.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6857.HEIC.png",
+    "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6858.HEIC.png"
+  ],
+  "per_view_errors": [
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6851.HEIC.png",
+      "mean_reprojection_error_px": 0.12409132466055203
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6852.HEIC.png",
+      "mean_reprojection_error_px": 0.26485482471571775
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6853.HEIC.png",
+      "mean_reprojection_error_px": 0.23748153038939313
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6854.HEIC.png",
+      "mean_reprojection_error_px": 0.33424964421121667
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6855.HEIC.png",
+      "mean_reprojection_error_px": 0.20864385334524368
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6856.HEIC.png",
+      "mean_reprojection_error_px": 0.22412790960389847
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6857.HEIC.png",
+      "mean_reprojection_error_px": 0.26761651627011274
+    },
+    {
+      "image": "experiments/v2_depth_based_sizing/checkerboard images/rendered/IMG_6858.HEIC.png",
+      "mean_reprojection_error_px": 0.3879626367240088
+    }
+  ]
+}
